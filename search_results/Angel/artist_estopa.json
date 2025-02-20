@@ -1,0 +1,352 @@
+{
+    "artists": {
+        "href": "https://api.spotify.com/v1/search?offset=0&limit=10&query=estopa&type=artist",
+        "limit": 10,
+        "next": "https://api.spotify.com/v1/search?offset=10&limit=10&query=estopa&type=artist",
+        "offset": 0,
+        "previous": null,
+        "total": 812,
+        "items": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2212456
+                },
+                "genres": [
+                    "flamenco",
+                    "flamenco pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5ZqnEfVdEGmoPxtELhN7ai",
+                "id": "5ZqnEfVdEGmoPxtELhN7ai",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebfc35d983d1fd3469013ee1ab",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616100005174fc35d983d1fd3469013ee1ab",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f178fc35d983d1fd3469013ee1ab",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Estopa",
+                "popularity": 69,
+                "type": "artist",
+                "uri": "spotify:artist:5ZqnEfVdEGmoPxtELhN7ai"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2210118
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/1tZ99AnqyjgrmPwLfGU5eo",
+                "id": "1tZ99AnqyjgrmPwLfGU5eo",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebd5ed89f6dd4961b5442ea527",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616100005174d5ed89f6dd4961b5442ea527",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f178d5ed89f6dd4961b5442ea527",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Fito y Fitipaldis",
+                "popularity": 65,
+                "type": "artist",
+                "uri": "spotify:artist:1tZ99AnqyjgrmPwLfGU5eo"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1444804
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/3bgsNtcf5d5h9jbQbohfBK",
+                "id": "3bgsNtcf5d5h9jbQbohfBK",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb12434039f9760438626cf90b",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000517412434039f9760438626cf90b",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f17812434039f9760438626cf90b",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Extremoduro",
+                "popularity": 63,
+                "type": "artist",
+                "uri": "spotify:artist:3bgsNtcf5d5h9jbQbohfBK"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 4281175
+                },
+                "genres": [
+                    "flamenco",
+                    "flamenco pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1EXjXQpDx2pROygh8zvHs4",
+                "id": "1EXjXQpDx2pROygh8zvHs4",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb69b92908b14aa8f0b4cd175d",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000517469b92908b14aa8f0b4cd175d",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f17869b92908b14aa8f0b4cd175d",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Melendi",
+                "popularity": 74,
+                "type": "artist",
+                "uri": "spotify:artist:1EXjXQpDx2pROygh8zvHs4"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1099646
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/5RK6c1tyaKpwcDpbgCGNgj",
+                "id": "5RK6c1tyaKpwcDpbgCGNgj",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5f251e3951c253901cf172c0",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab676161000051745f251e3951c253901cf172c0",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f1785f251e3951c253901cf172c0",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "El Canto Del Loco",
+                "popularity": 62,
+                "type": "artist",
+                "uri": "spotify:artist:5RK6c1tyaKpwcDpbgCGNgj"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 779538
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/5Hsv8dUHHOdnn72q4XIVz7",
+                "id": "5Hsv8dUHHOdnn72q4XIVz7",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebdc1e8822bc0aa6ebdaa977d8",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616100005174dc1e8822bc0aa6ebdaa977d8",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f178dc1e8822bc0aa6ebdaa977d8",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Leiva",
+                "popularity": 64,
+                "type": "artist",
+                "uri": "spotify:artist:5Hsv8dUHHOdnn72q4XIVz7"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1c0yA4thSX2kBjGZkew5Hj"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 7591
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/1c0yA4thSX2kBjGZkew5Hj",
+                "id": "1c0yA4thSX2kBjGZkew5Hj",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273bd07a96c0aa81b2948994be1",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02100b7d31c318551cb490deb5",
+                        "height": 300,
+                        "width": 300
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616d00004851100b7d31c318551cb490deb5",
+                        "height": 64,
+                        "width": 64
+                    }
+                ],
+                "name": "El Estepario Siberiano",
+                "popularity": 15,
+                "type": "artist",
+                "uri": "spotify:artist:1c0yA4thSX2kBjGZkew5Hj"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 28847
+                },
+                "genres": [
+                    "mexican hip hop",
+                    "freestyle",
+                    "latin hip hop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3mqPl8mavq0P24IIbbgYnI",
+                "id": "3mqPl8mavq0P24IIbbgYnI",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebc52ae6f5341a1755a57e7787",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616100005174c52ae6f5341a1755a57e7787",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f178c52ae6f5341a1755a57e7787",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Lobo Estepario",
+                "popularity": 37,
+                "type": "artist",
+                "uri": "spotify:artist:3mqPl8mavq0P24IIbbgYnI"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5UIginsdI6iFGs9AMett1z"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 933
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/5UIginsdI6iFGs9AMett1z",
+                "id": "5UIginsdI6iFGs9AMett1z",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebeff021a752d8c9d33182f285",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab67616100005174eff021a752d8c9d33182f285",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f178eff021a752d8c9d33182f285",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Alysson Estopa",
+                "popularity": 31,
+                "type": "artist",
+                "uri": "spotify:artist:5UIginsdI6iFGs9AMett1z"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/74oFnSbEFBLgyilWyg7snT"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 79
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/74oFnSbEFBLgyilWyg7snT",
+                "id": "74oFnSbEFBLgyilWyg7snT",
+                "images": [
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5c690927aeca2517a95aff46",
+                        "height": 640,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab676161000051745c690927aeca2517a95aff46",
+                        "height": 320,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://i.scdn.co/image/ab6761610000f1785c690927aeca2517a95aff46",
+                        "height": 160,
+                        "width": 160
+                    }
+                ],
+                "name": "Estovan",
+                "popularity": 14,
+                "type": "artist",
+                "uri": "spotify:artist:74oFnSbEFBLgyilWyg7snT"
+            }
+        ]
+    }
+}

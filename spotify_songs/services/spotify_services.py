@@ -8,16 +8,19 @@ import urllib
 from .token_manage import save_token, load_token
 import os
 from dotenv import load_dotenv
+from pathlib import Path
 
 # Cargar variables desde .env
-load_dotenv()
+BASE_DIR = Path(__file__).resolve().parent.parent 
+dotenv_path = BASE_DIR / ".env"
+load_dotenv(dotenv_path)
 
 SPOTIFY_AUTH_URL = "https://accounts.spotify.com/authorize"
 SPOTIFY_TOKEN_URL = "https://accounts.spotify.com/api/token"
 SPOTIFY_API_BASE_URL = "https://api.spotify.com/v1/"
 REDIRECT_URL = "http://localhost:8000/api/callback"
-CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
-CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET")
+CLIENT_ID = os.getenv("CLIENT_ID")
+CLIENT_SECRET = os.getenv("CLIENT_ID_SECRET")
 
 def get_valid_token(code:str, error:str):
 

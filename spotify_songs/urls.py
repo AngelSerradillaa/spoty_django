@@ -17,7 +17,7 @@ schema_view = get_schema_view(
 urlpatterns = [
     path('login/', login, name='login'),
     path('callback', callback, name='callback'),
-    path('search/<str:q>/<str:search_type>/', search, name='search'),
+    path('search/<str:search_type>/<str:q>/', search, name='search'),
     path('refresh-token/', refresh_access_token, name='refresh_token'),
 
     path('crear_usuario/', crear_usuario, name='crear_usuario'),

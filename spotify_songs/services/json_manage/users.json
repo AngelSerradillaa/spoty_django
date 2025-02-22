@@ -2,5 +2,9 @@
     "Angel": {
         "password": "$2b$12$Rw2fLIFV/wZsj5YrdjeOWOUJxr4b0TjT/drwTjD4YIuNxMMd.Af46",
         "full_name": "Angel Serradilla"
+    },
+    "angel": {
+        "password": "123",
+        "full_name": "usuario123"
     }
 }
